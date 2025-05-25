@@ -14,7 +14,7 @@
 1. Клонируйте репозиторий:
 
 ```bash
-git clone https://github.com/NikitaPushkin/frontend-blog-customizer.git
+git clone https://pushkinikita.github.io/frontend-blog-customizer.git
 ```
 
 2. Перейдите в директорию проекта:
@@ -33,7 +33,7 @@ npm start
 
 Теперь ваше приложение доступно по адресу http://localhost:8080
 
-[Посмотреть проект](https://NikitaPushkin.github.io//frontend-blog-customizer/)
+[Посмотреть проект](https://pushkinikita.github.io/frontend-blog-customizer/)
 
 ## Возможности
 - Кастомизация внешнего вида статьи с возможностью изменения шрифта, размера шрифта, цвета шрифта, цвета фона и ширины контента.
